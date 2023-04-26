@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="Apple Health Export" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <time>2023-04-26T04:16:42Z</time>
+  </metadata>
+  <trk>
+    <name>Route 2021-10-29 9:22am</name>
+    <trkseg>
+      <trkpt lon="113.940048" lat="22.577009"><ele>32.680710</ele><time>2021-10-29T01:22:46Z</time><extensions><speed>0.890554</speed><course>22.090864</course><hAcc>14.260949</hAcc><vAcc>10.052172</vAcc></extensions></trkpt>
+      <trkpt lon="113.940064" lat="22.577016"><ele>33.281601</ele><time>2021-10-29T01:22:47Z</time><extensions><speed>1.149512</speed><course>35.815548</course><hAcc>14.282906</hAcc><vAcc>10.020950</vAcc></extensions></trkpt>
+    </trkseg>
+  </trk>
+</gpx>

@@ -18,6 +18,11 @@ const YearsStat = ({ year, onClick }) => {
         <p style={{ lineHeight: 1.8 }}>
           {INFO_MESSAGE(years.length, year)}
           <br />
+          <br />
+         卒然临之而不惊，无故加之而不怒。
+         <br />
+         Run with time，与时间为友。
+          <br />
         </p>
       </section>
       <hr color="red" />

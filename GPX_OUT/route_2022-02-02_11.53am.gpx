@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="Apple Health Export" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <time>2023-04-26T04:16:45Z</time>
+  </metadata>
+  <trk>
+    <name>Route 2022-02-02 11:53am</name>
+    <trkseg>
+      <trkpt lon="113.948930" lat="22.490977"><ele>1.800396</ele><time>2022-02-02T03:53:26Z</time><extensions><speed>1.073457</speed><course>288.251282</course><hAcc>4.743647</hAcc><vAcc>3.364871</vAcc></extensions></trkpt>
+      <trkpt lon="113.948917" lat="22.490980"><ele>2.446941</ele><time>2022-02-02T03:53:27Z</time><extensions><speed>1.143155</speed><course>288.399292</course><hAcc>4.744010</hAcc><vAcc>3.364357</vAcc></extensions></trkpt>
+      <trkpt lon="113.948907" lat="22.490984"><ele>2.340867</ele><time>2022-02-02T03:53:28Z</time><extensions><speed>1.075788</speed><course>291.760101</course><hAcc>4.744514</hAcc><vAcc>3.363647</vAcc></extensions></trkpt>
+      <trkpt lon="113.948895" lat="22.490986"><ele>3.324279</ele><time>2022-02-02T03:53:29Z</time><extensions><speed>1.085701</speed><course>288.798401</course><hAcc>4.744760</hAcc><vAcc>3.363301</vAcc></extensions></trkpt>
+      <trkpt lon="113.948888" lat="22.490993"><ele>2.446577</ele><time>2022-02-02T03:53:30Z</time><extensions><speed>1.073325</speed><course>297.416992</course><hAcc>4.745706</hAcc><vAcc>3.361966</vAcc></extensions></trkpt>
+      <trkpt lon="113.948876" lat="22.490998"><ele>2.218111</ele><time>2022-02-02T03:53:31Z</time><extensions><speed>1.206245</speed><course>296.463531</course><hAcc>4.745826</hAcc><vAcc>3.361796</vAcc></extensions></trkpt>
+      <trkpt lon="113.948870" lat="22.490998"><ele>2.038693</ele><time>2022-02-02T03:53:32Z</time><extensions><speed>0.895628</speed><course>289.992310</course><hAcc>4.742958</hAcc><vAcc>3.365841</vAcc></extensions></trkpt>
+      <trkpt lon="113.948859" lat="22.491001"><ele>1.908762</ele><time>2022-02-02T03:53:33Z</time><extensions><speed>1.001147</speed><course>287.815277</course><hAcc>4.744612</hAcc><vAcc>3.363508</vAcc></extensions></trkpt>
+    </trkseg>
+  </trk>
+</gpx>
