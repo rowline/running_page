@@ -1,9 +1,9 @@
 module.exports = {
   pathPrefix: process.env.PATH_PREFIX || '/',
   siteMetadata: {
-    siteTitle: 'Running Page',
+    siteTitle: '2023年目标 330',
     siteUrl: 'http://rollin.love',
-    logo: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTtc69JxHNcmN1ETpMUX4dozAgAN6iPjWalQ&usqp=CAU',
+    logo: 'http://www.rollin.love/wp-content/uploads/2023/04/running_page.jpg',
     description: 'Personal site and blog',
     navLinks: [
       {
