@@ -221,7 +221,7 @@ const LINE_OPACITY = 0.4;
 <summary>Make your <code>GPX</code> data</summary>
 <br>
 
-####How can you get your GPX data from Apple Health?
+#### How can you get your GPX data from Apple Health?
 
 https://sspai.com/post/66163
 
