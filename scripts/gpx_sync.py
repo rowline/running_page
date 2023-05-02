@@ -18,7 +18,7 @@ if __name__ == "__main__":
         # 如果文件是 .gpx 格式
         if filename.endswith(".gpx"):
             # 打开 GPX 文件，解析文件内容，并关闭文件
-            gpx_file = open(os.path.join(GPX_FOLDER, filename), 'r')
+            gpx_file = open(os.path.join(GPX_FOLDER, filename), "r")
             gpx = gpxpy.parse(gpx_file)
             gpx_file.close()
 
