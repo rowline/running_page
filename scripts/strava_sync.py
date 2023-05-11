@@ -13,7 +13,9 @@ def run_strava_sync(client_id, client_secret, refresh_token):
 
     # Delete activities with distance < 4 km
     activities_list = generator.load()
-    activities_list = [activity for activity in activities_list if activity["distance"] >= 4000]
+    activities_list = [
+        activity for activity in activities_list if activity["distance"] >= 4000
+    ]
 
     # Save filtered activities to JSON file
     with open(JSON_FILE, "w") as f:
