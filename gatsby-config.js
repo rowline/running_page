@@ -1,7 +1,7 @@
 module.exports = {
   pathPrefix: process.env.PATH_PREFIX || '/',
   siteMetadata: {
-    siteTitle: '2023年目标 330',
+    siteTitle: '2024年目标 SUB300',
     siteUrl: 'http://rollin.love',
     logo: 'http://www.rollin.love/wp-content/uploads/2023/04/running_page.jpg',
     description: 'Personal site and blog',
